@@ -1,0 +1,11 @@
+{
+  "name": "hashpow-gen",
+  "version": "1.0.1",
+  "description": "Generates messages backed by SHA-256 PoW",
+  "main": "index.js",
+  "author": "Ty Everett <ty@tyweb.us>",
+  "license": "MIT",
+  "bin": {
+    "hashpow-gen": "index.js"
+  }
+}
